@@ -38,3 +38,14 @@ Distributed under the XYZ license. See ``LICENSE`` for more information.
 3. Commit your changes (`git commit -am 'Add some fooBar'`)
 4. Push to the branch (`git push origin feature/fooBar`)
 5. Create a new Pull Request
+
+## Images of Job Leader Chrome Extension 
+
+<img width="1426" alt="JobLeader _Tutorial_image1" src="https://user-images.githubusercontent.com/70453757/134079731-84f75ad3-3ec2-4ab0-93dc-f45475f3b119.png">
+
+<img width="1429" alt="JobLeader_Tutorial2" src="https://user-images.githubusercontent.com/70453757/134079760-eabcb0d7-4f0f-411f-ad18-bf1174c95f0d.png">
+
+<img width="1462" alt="JobLeader_Tutorial3" src="https://user-images.githubusercontent.com/70453757/134079796-0fa4b52c-3dfd-4393-9b7b-a003b101e047.png">
+
+
+
