@@ -29,7 +29,7 @@ James Romero – comsci.romeroj@gmail.com
 
 Distributed under the XYZ license. See ``LICENSE`` for more information.
 
-[https://github.com/CodedreamerJ/github-link](https://github.com/dbader/)
+[https://github.com/CodedreamerJ/github-link](https://github.com/CodedreamerJ)
 
 ## Contributing
 
