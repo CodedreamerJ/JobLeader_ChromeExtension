@@ -1,0 +1,54 @@
+header{
+  text-align: center;
+}
+
+title {
+    text-align: center;
+    background: #3774C8;
+  }
+
+  body {
+    margin: 0;
+    padding: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    min-width: 400px;
+}
+
+input {
+    width: 100%;
+    padding: 10px;
+    box-sizing: border-box;
+    border: 1px solid #5f9341;
+    margin-bottom: 4px;
+    text-align: center;
+}
+div {
+  display: inline-block;
+}
+button{
+  /*Change the width as much as you like, but make sure 
+  margin-left and margin-right + width = 100%*/
+  width:50%;
+  margin-left:25%;
+  margin-right:25%;
+}
+button {
+  display: inline-block;
+  padding: 10px 20px;
+  text-align: center;
+}
+#table {
+  display: block;
+  margin-top: 20px;
+}
+th, td {
+  border: 1px solid black;
+  padding: 5px;
+}
+
+p {
+  color: navy;
+  text-indent: 15px;
+  text-transform: uppercase;
+  text-align:center;
+}
